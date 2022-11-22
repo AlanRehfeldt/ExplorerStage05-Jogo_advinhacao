@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -24,6 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Jogo de advinhação de números. Escolha números aleatórios entre 0 a 10, tente advinha no mínimo de tentativas possíveis, a aplicação informrá o números de tentativas
+
+## 🎲 Link
+[Jogo da advinhacao](https://alanrehfeldt.github.io/ExplorerStage05-Jogo_advinhacao/)
 
 ## 🔖 Layout
 
